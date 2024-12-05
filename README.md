@@ -1,4 +1,4 @@
-# Socket Server Implementation
+# Socket Server Implementation TCP69
 
 This script implements a basic server-client communication using Python's `socket` module. It is designed to:
 - Handle two client connections.
@@ -28,7 +28,7 @@ This script implements a basic server-client communication using Python's `socke
 
 ### Steps
 
-1. Save the script as `socket_server.py`.
+1. Save the script as `socket_server.py` or any name that you want.
 2. Open a terminal or command prompt.
 3. Run the script:
    ```bash
